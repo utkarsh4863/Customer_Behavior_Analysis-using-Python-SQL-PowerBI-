@@ -71,7 +71,7 @@ This project explores customer data using **Python**, **SQL**, and **Power BI** 
 ---
 
 ## 📸 Dashboard Preview
-![Customer Behavior Dashboard](dashboard_screenshot.png)
+![Customer Behavior Dashboard](https://github.com/utkarsh4863/Customer_Behavior_Analysis-using-Python-SQL-PowerBI-/blob/main/Dashboard%20Screenshot.png)
 
 ---
 
